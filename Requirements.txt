@@ -3,6 +3,6 @@ pandas
 numpy
 seaborn
 mlxtend
-matplotlib
+matplotlib==3.7.1
 scikit-learn
 networkx
